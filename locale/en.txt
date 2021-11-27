@@ -1,0 +1,45 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Creative Loft
+
+## Media
+
+### Title
+panorama_110F1E18_1D88_42C0_4155_8D42E1F05308.label = Living room
+panorama_13893D6C_1D88_C140_41B6_A4D048A60F24.label = Bedroom
+panorama_16A05311_1D88_42C0_416B_F09D180AC6BA.label = Stairs
+photo_0A285C68_1E88_4740_416F_B15BA1B30756.label = Screen Shot 2021-11-14 at 11.04.20 pm
+photo_0A547167_1E98_4140_4194_C24650CF270E.label = Screen Shot 2021-11-14 at 10.52.21 pm
+photo_2CE83588_3804_F2DC_41C1_7177D4E7343F.label = Screen Shot 2021-11-19 at 11.34.43 pm
+video_5130635C_4202_26AF_41CF_85F340C6E023.label = vangoghmuseum-s0025V1962-800
+video_51CD34D7_4202_23B9_41C3_936BD3174D07.label = vangoghmuseum-s0031V1962-800
+video_523BC521_421E_2299_41BA_69068F584E07.label = 002017 WPCA Video 1.2
+video_53533B50_4202_E6B7_41BB_79A0C5B64059.label = vangoghmuseum-s0176V1962-800
+video_53A375E3_4206_2D99_41C4_F32399128F10.label = 002017 WPCA Video 1.2
+video_53FCA68A_4202_2FAB_41C8_048ACAAFBA28.label = 002017 WPCA Video 1.2 2
+video_56377A61_4202_E699_41C3_4540834CEC35.label = vangoghmuseum-s0047V1962-800
+
+## Popup
+
+### Body
+htmlText_0A2E5A58_1E99_C340_419F_E2D26B67893A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lifelike artificial bouquet that remains just as fresh-looking and beautiful year after year.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">You can bend and adjust the flowers any way you want because of the steel wires in the stems.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://www.ikea.com/au/en/p/smycka-artificial-bouquet-in-outdoor-light-pink-yellow-white-10476083/" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#000000;font-size:15px;font-family:'Arial Bold';"><U>More info</U></SPAN></A></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_0FAA0253_1E98_4340_41AE_8986018E2F27.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">KIVIK is a generous seating series with a soft, deep seat and comfortable support for your back.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Seat cushions with a top layer of memory foam; moulds to the precise contours of your body and regains its shape when you get up.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://www.ikea.com/au/en/p/kivik-4-seat-sofa-with-chaise-longue-hillared-beige-s39194403/" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#000000;font-size:15px;"><B><U>More info</U></B></SPAN></A></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_2BA66967_3804_5254_41AF_8C106EEF87A8.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Sweet scent of vanilla ice cream and freshly baked waffles.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The candle has the same beautiful colour during its entire burn time, because it is coloured through.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://www.ikea.com/au/en/p/sinnlig-scented-candle-in-glass-sweet-vanilla-natural-00337417/" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#000000;font-size:15px;"><B><U>More info</U></B></SPAN></A></SPAN></SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_4861DB4B_4788_D848_41B5_5008F137A7FE.title = KIVIK 4-seat sofa
+window_4908C73B_4788_69C8_41CF_4772B371B713.title = SMYCKA
+window_572E0313_4789_E9D8_41CE_E8A84DB9953A.title = SINNLIG
+
+## Action
+
+### PDF
+PopupPDFBehaviour_088395C6_1F98_C140_41AC_A70DEF2BC140.url = files/HSP225-Sleep-Fact-Sheet-DP3_en.pdf
+
+### URL
+LinkBehaviour_0D842933_1E98_4EC0_41A1_2B01EF65ECF8.source = https://www.ikea.com/au/en/ideas/4-easy-gifts-for-holiday-hosts-pubf93f7dd1
