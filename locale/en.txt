@@ -36,9 +36,9 @@ htmlText_0FAA0253_1E98_4340_41AE_8986018E2F27.html = <div style="text-align:left
 htmlText_2BA66967_3804_5254_41AF_8C106EEF87A8.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Sweet scent of vanilla ice cream and freshly baked waffles.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The candle has the same beautiful colour during its entire burn time, because it is coloured through.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://www.ikea.com/au/en/p/sinnlig-scented-candle-in-glass-sweet-vanilla-natural-00337417/" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#000000;font-size:15px;"><B><U>More info</U></B></SPAN></A></SPAN></SPAN></DIV></BODY></HTML></div>
 
 ### Title
-window_4861DB4B_4788_D848_41B5_5008F137A7FE.title = KIVIK 4-seat sofa
-window_4908C73B_4788_69C8_41CF_4772B371B713.title = SMYCKA
-window_572E0313_4789_E9D8_41CE_E8A84DB9953A.title = SINNLIG
+window_723E3189_6593_86C0_41CF_3EF1BC5ADCA7.title = KIVIK 4-seat sofa
+window_72432E67_6591_FA40_4181_C53F745D013F.title = SINNLIG
+window_7C322275_659F_8A40_41D2_61E317A442DC.title = SMYCKA
 
 ## Action
 
